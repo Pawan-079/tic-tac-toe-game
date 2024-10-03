@@ -7,9 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
-Open [[http://localhost:3000](https://amazing-rolypoly-10ee2c.netlify.app/)]([http://localhost:3000](https://amazing-rolypoly-10ee2c.netlify.app/) to view it in your browser.
+Open [https://amazing-rolypoly-10ee2c.netlify.app/](https://amazing-rolypoly-10ee2c.netlify.app/) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
